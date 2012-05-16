@@ -14,6 +14,7 @@ int main(int argc, char* argv[])
 
     /* int型の変数に20を代入した*/
     hoge = 20;
+    fuga = 50;
 
     /* 変数の内容を表示 */
     printf("********** after  **********\n");
