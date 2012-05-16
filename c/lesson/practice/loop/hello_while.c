@@ -7,7 +7,7 @@ int main(int argc, char* argv[])
     int i = 0;
 
     while(i < LIMIT){
-        printf("Hello world.\n");
+        printf("%d Hello world.\n", i + 1);
         i++;
     }
 }
