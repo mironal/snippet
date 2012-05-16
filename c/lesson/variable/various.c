@@ -12,11 +12,11 @@ int main(int argc, char* argv[])
     char* string   = "mojiretu";
 
     /* 整数を格納する変数 */
-    int i = 10;
+    int  i = 10;
     long l = 100;
 
     /* 少数を格納する変数 */
-    float f = 10.5;
+    float  f = 10.5;
     double d = 10000.5;
 
     /* 出力 %の後の文字に注意 */
