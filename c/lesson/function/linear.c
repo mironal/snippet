@@ -7,10 +7,12 @@
  */
 int function(int x)
 {
+    /* yはこの関数内のみで有効な変数. */
     int y = 0;
 
     y = 4 * x + 3;
 
+    /* 計算結果を返す */
     return y;
 }
 
